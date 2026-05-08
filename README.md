@@ -107,15 +107,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Priyanka-Gholap&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
@@ -137,15 +128,7 @@
 
 ---
 
-# ✨ Profile Views
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Priyanka-Gholap&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-
----
 
 <!-- ==================== FOOTER ==================== -->
 
