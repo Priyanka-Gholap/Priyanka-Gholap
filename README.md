@@ -22,7 +22,7 @@
 
 # 🌌 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="240" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ### 👩‍💻 Who Am I?
 
@@ -31,10 +31,7 @@
 - 🤖 Building AI-powered applications  
 - 🎨 Passionate about futuristic UI/UX  
 - 🚀 Exploring Machine Learning & AI  
-- 🌠 Creating immersive web experiences  
-
-<br/>
-<br/>
+- 🌠 Creating immersive web experiences
 
 ---
 
@@ -42,25 +39,25 @@
 
 <div align="center">
 
-## 💻 Frontend & UI
+### 💻 Frontend & UI
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js,ts,vite" />
 
-<br/><br/>
+<br/>
 
-## ⚙ Backend & Database
+### ⚙ Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,socketio" />
 
-<br/><br/>
+<br/>
 
-## 🤖 AI / Programming
+### 🤖 AI / Programming
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp" />
 
-<br/><br/>
+<br/>
 
-## 🛠 Tools & Platforms
+### 🛠 Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 
@@ -90,7 +87,7 @@
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyanka-Gholap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Priyanka-Gholap&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Priyanka-Gholap&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
 </div>
 
@@ -98,7 +95,7 @@
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka-Gholap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka-Gholap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff"/>
 
 </div>
 
@@ -126,6 +123,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+My+Profile+✨;Keep+Building+Keep+Learning+🚀;See+You+Again+🌌"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Thanks+For+Visiting+My+Profile+✨;Keep+Building+Keep+Learning+🚀;See+You+Again+🌌"/>
 
 </div>
