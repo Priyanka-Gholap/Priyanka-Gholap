@@ -18,13 +18,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Priyanka-Gholap&data=followers,repositories,stars,commits&theme=dark"/>
-
-</div>
-
----
 ---
 
 # 🌌 About Me
