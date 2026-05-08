@@ -75,13 +75,18 @@
 
 <div align="center">
 
-| 🚀 Project | 🌌 Description | ⚡ Tech |
+# 🌟 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 🌌 Description | ⚡ Tech Stack |
 |---|---|---|
-| 🎬 CineMatch | AI-powered movie recommendation platform with quiz system | React • TMDB • Firebase |
-| 🌌 VibeCheck | AI mood analyzer with books & music recommendations | React • HuggingFace |
-| 📄 AutoCV | AI Resume Builder with multiple templates | MERN Stack |
+| 🎬 CineMatch | Futuristic AI-powered movie recommendation platform with interactive quiz system, trending movies, and Neon Cinema UI experience. | React • TMDB API • Firebase • CSS |
+| 🏗 EngineerVerse | Engineering-focused learning platform designed to help students explore branches, technologies, and academic resources interactively. | React • Tailwind • JavaScript |
+| 🧩 ToggleNest | Dynamic UI-focused project showcasing reusable components, state management, and modern interactive frontend architecture. | React • JavaScript • CSS |
+| 📄 AutoCV | AI-powered Resume Builder with multiple professional templates, live preview system, and modern responsive layouts. | MERN Stack • React • Node.js |
 | 📊 AlgoVision | Interactive Sorting Algorithm Visualizer | React |
-| 🏗 EngineerVerse | Platform for engineering students | React • Tailwind |
+</div>
 
 </div>
 
