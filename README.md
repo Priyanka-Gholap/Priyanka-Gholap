@@ -1,24 +1,34 @@
-<!-- ==================== HEADER ==================== -->
+<!-- ================= HERO SECTION ================= -->
 
-<h1 align="center">
-  ✨ Hi, I'm Priyanka ✨
-</h1>
+<div align="center">
 
-<h3 align="center">
-  🌌 Frontend Developer • MERN Stack • AI Projects
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:0f172a,30:1e1b4b,70:312e81,100:06b6d4&text=Priyanka%20Gholap&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20•%20MERN%20Stack%20•%20AI%20Projects&descAlignY=60&descSize=20"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;AI+Project+Builder;Creating+Futuristic+UI%2FUX;React+%2B+AI+Enthusiast" />
-</p>
+</div>
 
----
+<br/>
 
-<!-- ==================== BANNER ==================== -->
+<div align="center">
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20Universe&fontSize=40&fontColor=ffffff&color=0:0f0c29,50:302b63,100:24243e&animation=fadeIn&fontAlignY=38"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Futuristic+Web+Experiences+✨;React+•+MERN+•+AI+Developer+🚀;Creating+Immersive+UI%2FUX+🌌;Passionate+About+Frontend+Engineering+💻"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🌌 Crafting modern digital experiences with futuristic UI, immersive interactions, and AI-powered applications.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Priyanka-Gholap&data=followers,repositories,stars,commits&theme=dark"/>
+
+</div>
 
 ---
 
@@ -34,7 +44,7 @@
 - 🎨 Passionate about futuristic UI/UX  
 - 🚀 Exploring Machine Learning & AI  
 - 🌠 Creating immersive web experiences  
-- 📚 Currently building **EngineerVerse**  
+- 📚 Currently building **EngineerVerse**
 
 <br/>
 <br/>
@@ -53,7 +63,7 @@
 
 ## ⚙ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,socketio" />
 
 <br/><br/>
 
@@ -75,18 +85,13 @@
 
 <div align="center">
 
-# 🌟 Featured Projects
-
-<div align="center">
-
 | 🚀 Project | 🌌 Description | ⚡ Tech Stack |
 |---|---|---|
 | 🎬 CineMatch | Futuristic AI-powered movie recommendation platform with interactive quiz system, trending movies, and Neon Cinema UI experience. | React • TMDB API • Firebase • CSS |
 | 🏗 EngineerVerse | Engineering-focused learning platform designed to help students explore branches, technologies, and academic resources interactively. | React • Tailwind • JavaScript |
 | 🧩 ToggleNest | Smart real-time task management web application designed for organizing daily tasks, improving productivity, and managing workflows with an interactive modern UI. | React • Node.js • Express.js • Socket.io • JavaScript • CSS |
 | 📄 AutoCV | AI-powered Resume Builder with multiple professional templates, live preview system, and modern responsive layouts. | MERN Stack • React • Node.js |
-| 📊 AlgoVision | Interactive Sorting Algorithm Visualizer | React |
-</div>
+| 📊 AlgoVision | Interactive Sorting Algorithm Visualizer with animated step-by-step algorithm demonstrations. | React • JavaScript • CSS |
 
 </div>
 
@@ -112,6 +117,15 @@
 
 ---
 
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Priyanka-Gholap&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
 
 # 🌐 Connect With Me
 
@@ -133,14 +147,8 @@
 
 ---
 
-
-
-<!-- ==================== FOOTER ==================== -->
-
----
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+My+Profile+✨;Keep+Building+Keep+Learning+🚀;See+You+Again+🌌" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+My+Profile+✨;Keep+Building+Keep+Learning+🚀;See+You+Again+🌌"/>
 
 </div>
