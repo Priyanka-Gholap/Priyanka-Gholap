@@ -2,27 +2,21 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:0f172a,30:1e1b4b,70:312e81,100:06b6d4&text=Priyanka%20Gholap&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20•%20MERN%20Stack%20•%20AI%20Projects&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=180&color=0:0f172a,30:1e1b4b,70:312e81,100:06b6d4&text=Priyanka%20Gholap&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Frontend%20Developer%20•%20MERN%20Stack%20•%20AI%20Projects&descAlignY=68&descSize=18"/>
 
 </div>
-
-<br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Futuristic+Web+Experiences+✨;React+•+MERN+•+AI+Developer+🚀;Creating+Immersive+UI%2FUX+🌌;Passionate+About+Frontend+Engineering+💻"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&height=40&lines=React+•+MERN+•+AI+Developer+🚀;Building+Futuristic+UI%2FUX+🌌;Creating+Immersive+Web+Experiences+✨"/>
 
 </div>
-
-<br/>
 
 <div align="center">
 
-### 🌌 Crafting modern digital experiences with futuristic UI, immersive interactions, and AI-powered applications.
+### 🌌 Crafting futuristic digital experiences with modern UI & AI-powered applications.
 
 </div>
-
-<br/>
 
 <div align="center">
 
@@ -30,6 +24,7 @@
 
 </div>
 
+---
 ---
 
 # 🌌 About Me
