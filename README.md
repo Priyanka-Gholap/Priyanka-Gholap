@@ -137,6 +137,10 @@
 
 <!-- ==================== FOOTER ==================== -->
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
-</p>
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+My+Profile+✨;Keep+Building+Keep+Learning+🚀;See+You+Again+🌌" />
+
+</div>
