@@ -117,15 +117,15 @@
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/priyankagholap-in">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/Priyanka-Gholap">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:priyankagholap182@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=red"/>
 </a>
 
