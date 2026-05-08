@@ -32,7 +32,6 @@
 - 🎨 Passionate about futuristic UI/UX  
 - 🚀 Exploring Machine Learning & AI  
 - 🌠 Creating immersive web experiences  
-- 📚 Currently building **EngineerVerse**
 
 <br/>
 <br/>
@@ -100,16 +99,6 @@
 <div align="center">
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka-Gholap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Priyanka-Gholap&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
